@@ -10,10 +10,4 @@ const knex = require('knex')({
   useNullAsDefault: true
 })
 
-// Just for debugging purposes:
-// Log all data in "locations" table
-knex.select('*').from('locations')
-  .then(data => console.log('data:', data))
-  .catch(err => console.log(err))
-
 module.exports = knex
