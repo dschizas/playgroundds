@@ -1,6 +1,6 @@
 # playgroundds - VT Challenge
 
-"Playgroundds" is a simple repository that uses Node.js, sqlite and React.js to create an search functionality for different UK locations. I created this repository for the virtual trips coding challenge.
+"Playgroundds" is a simple repository that uses Node.js, sqlite and React.js to create an search functionality for different UK locations. 
 
 The core structure of the product is as follows:
 - The code-challenge folder has some javascript questions and answers (Pt I)
